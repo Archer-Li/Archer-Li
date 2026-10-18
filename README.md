@@ -24,6 +24,8 @@ I enjoy building useful tools and exploring streaming APIs, observable systems, 
 | Applications & data | Vue, React, Django, PostgreSQL, MySQL, Redis |
 | Engineering workflows | MCP, Playwright, performance testing, agent evaluation |
 
-## A learning loop between humans and AI
+## AI as an external brain
 
-AI challenges our assumptions; our feedback improves how AI works. Build, test, learn, repeat—with more room for creativity and meaningful work.
+I see AI as an external brain: a way to offload repetitive effort and make more room for creativity.
+
+Kahneman's *Thinking, Fast and Slow* distinguishes fast, intuitive System 1 thinking from slower, deliberate System 2 reasoning. Inspired by that distinction, I want to build tools that free our attention for deeper thought: asking better questions, challenging assumptions, and deciding what is worth creating. More room for human judgment, original ideas, and meaningful value.
