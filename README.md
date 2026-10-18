@@ -24,6 +24,6 @@ I enjoy building useful tools and exploring streaming APIs, observable systems, 
 | Applications & data | Vue, React, Django, PostgreSQL, MySQL, Redis |
 | Engineering workflows | MCP, Playwright, performance testing, agent evaluation |
 
-## Currently exploring
+## AI as an external brain
 
-More hands-on Python development, systematic Kubernetes troubleshooting, and AI-assisted tools that can be tested, evaluated, and improved.
+I see AI as an external brain: a way to offload repetitive effort, extend what we can do, and make more room for creativity. I care about building tools that let people focus on judgment, original ideas, and creating things that matter.
