@@ -2,13 +2,13 @@
   <img src="./assets/profile-banner.svg" alt="Zexin Li — platform infrastructure, observability, and AI developer tooling" width="100%" />
 </p>
 
-**Software Engineer @ Bloomberg · New York / New Jersey · UW–Madison CS**
+**Based in New York. Into systems, AI tools, and creative coding.**
 
-I build the infrastructure behind developer tools: streaming APIs, observability, authentication, and integrations that make AI-powered workflows practical.
+I enjoy building useful tools and experimenting with what code can do — from streaming APIs and observable systems to AI workflows and music-driven visuals.
 
 [LinkedIn](https://www.linkedin.com/in/zexin-archer-li/) · [Public repositories](https://github.com/Archer-Li?tab=repositories)
 
-## What I work on
+## Interests
 
 - **Platform infrastructure** — Nginx/OpenResty proxies, streaming APIs, reusable middleware, and secure service access.
 - **Observability** — OpenTelemetry, Kubernetes, Helm, telemetry pipelines, and tools for investigating production issues.
@@ -24,14 +24,6 @@ A creative coding project that renders a music video in the browser with **Canva
 Directed and iterated with AI-assisted development, with published prompts, build logs, and visual validation tools.
 
 [Watch the video](https://www.bilibili.com/video/BV186pc65E68) · [Read the build notes](https://github.com/Archer-Li/world-execute-me-lyric-mv/tree/main/docs)
-
-### [Saying Theater Website](https://github.com/Archer-Li/SayingWebFrontend)
-
-A collaborative website for UW–Madison's Saying Theater, built during the pandemic to give the club an online home and an entry point to its productions. **React · Django · MySQL · Redis**
-
-### [Matrix Calculator](https://github.com/Archer-Li/Matrix_Calculator)
-
-A team-built **Java / JavaFX** application for linear algebra, with interactive input, JSON import/export, and matrix operations. I contributed algorithms and computation improvements.
 
 ## Tools & technologies
 
